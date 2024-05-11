@@ -1,1 +1,1 @@
-There are materials for the graduate students in 2024, who learn the methods for data-intensive ecology.
+There are materials for the graduate students, who are interested in the methods for data-intensive ecology. The design of these exercises is to help understanding the concepts and analysis tools of data-intensive ecology.
